@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 - [Image Downloader](#image-downloader)
 - [Code Blue](#code-blue)
 
